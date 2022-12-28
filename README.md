@@ -10,9 +10,6 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=React&logoColor=white"/>
 <br></br>
 <br></br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyeri95&show_icons=true&theme=buefy)](https://github.com/Hyeri95/github-readme-stats)
-
-<br></br>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyeri95&show_icons=true&theme=buefy)](https://github.com/{username}/github-readme-stats)
 <img src="https://img.shields.io/badge/T-story-	D3D3D3?style=flat&logo=React&logoColor=white"/>
  </h3>
