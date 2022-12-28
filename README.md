@@ -1,4 +1,4 @@
- ![](https://capsule-render.vercel.app/api?section=header&type=waving&height=500&color=auto&fontSize=50&animation=twinkling&text=Hyeri's%20Github👻)
+ ![](https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=auto&fontSize=50&animation=twinkling&text=Hyeri's%20Github👻)
  <h2 align = 'center'>
  <a href="https://yari-blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T-story-000000?style=flat&logo=Python&logoColor=white&link=github.com/HyeRi95"/></a>
  </h2>
