@@ -2,6 +2,7 @@
  <h2 align = 'center'>
  <a href="https://yari-blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T-story-000000?style=flat&logo=Tstory&logoColor=white&link=github.com/HyeRi95"/></a>
  </h2>
+ <h3 align = 'center'>혜리의 깃허브에 오신걸 환영합니다 :) </h3>
 <h2 align = "center"> 🌟Tech Stack🌟 </h2>
 <h3 align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white&link=github.com/HyeRi95"/>
