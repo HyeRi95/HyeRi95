@@ -4,15 +4,15 @@
  </h2>
 <h2 align = "center"> 🌟Tech Stack🌟 </h2>
 <h3 align = "center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white&link=github.com/HyeRi95"/></a>
+<img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=React&logoColor=white&link=github.com/HyeRi95"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=React&logoColor=white&link=github.com/HyeRi95"/>
 <br>
-<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=React&logoColor=white&link=github.com/HyeRi95"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=React&logoColor=white&link=github.com/HyeRi95"/>
 <br></br>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeRi95&layout=compact"><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeRi95&layout=compact"><br><br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=Hyeri95&show_icons=true">
 </h3>
  
