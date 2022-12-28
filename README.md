@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=React&logoColor=white"/>
 <br></br>
 <br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeRi95&show_icons=true&theme=buefy)
  </h3>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeRi95&show_icons=true&theme=buefy)
  
  
  
