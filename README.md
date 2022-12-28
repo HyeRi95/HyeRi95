@@ -6,7 +6,7 @@
 <h3 align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white&link=github.com/HyeRi95"/>
 <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white&link=github.com/HyeRi95"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=React&logoColor=white&link=github.com/HyeRi95"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white&link=github.com/HyeRi95"/>
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white&link=github.com/HyeRi95"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Pandas&logoColor=white&link=github.com/HyeRi95"/>
