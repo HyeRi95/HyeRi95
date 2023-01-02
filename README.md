@@ -14,12 +14,14 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white&link=github.com/HyeRi95"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Pandas&logoColor=white&link=github.com/HyeRi95"/>
 <br></br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HyeRi95)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![HyeRi95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeRi95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HyeRi95)
  
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeRi95&layout=compact"><br><br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=Hyeri95&show_icons=true">
 </h3>
-
-[![HyeRi95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeRi95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HyeRi95)
  
  
  
